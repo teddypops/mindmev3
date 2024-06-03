@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\mindmev3\\browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
